@@ -1,0 +1,1 @@
+double inv_norm(double  y);

@@ -1,0 +1,426 @@
+1
+1
+a
+1
+1
+aa
+1
+2
+t
+1
+2
+tt
+1
+2
+ppp
+2
+2 2
+ttta
+2
+2 2
+tata
+4
+4 4 4 4
+aceghijghijfghijdeghijghijfb
+4
+1 1 1 1
+a
+4
+1 1 1 1
+pp
+4
+4 4 4 4
+gggggggggggggggggggggggggggggggggggggggggggg
+4
+4 4 4 4
+ttttttttttttttt
+4
+4 4 4 4
+ssssssssvsvvvvvsvvsvsvsvsvsssvvsvvvvsvsvvsvs
+4
+4 4 4 4
+ojjjoojoooooojojjjjjjjoojoojjjjjojojoojjojjjojjjjooojjjojjoooojjoojjjooojoooojojojjoojjojoojojjoojoojojjoooojoooojoooojjojjojjojojooooojjjoojojjjojjjooojojjojoojjjoojojjjjoojojoojjjjjjoojoojoojojjojjoojoooojoj
+4
+4 4 4 4
+khhkbhkhkhkkhkbkhkbhkkbkbkhkhbhkbbbkk
+4
+4 4 4 4
+cwcocwwowowwcoooowwccowoowcwwoowccccococoocooocwcccoccocwwowccwwccowoocwwcwocoowwwcwwowcowcwcooccwwwcwoocoocowwwcocowcwcococwwwocwcwcowowwwocowwwwcowoccoocccocwwwwcoocococcwco
+4
+4 4 4 4
+jmrmamamrjjamrmjajarmmmaamjjmjrmrjaaramrrjrjr
+4
+4 4 4 4
+ymmqzqqmzzqzzmyzqqyqyyzmzmmqqyymzqyzzymymmqqyqzymzqqqzzmmqmzqymmqqmzzqqqzzyyyzmmymzzzzzmmqqqzmzyzyqqqmmmqqqzzzymqyqymz
+4
+4 4 4 4
+barowrowaobowarobaaaaobwboaaooaarraoawwwbbrow
+4
+4 4 4 4
+mvhzohhvmvvvvvzvhm
+4
+4 4 4 4
+ncqjqnntqqfqtcjqqnjqffnjcctqnnnjqncqjtf
+4
+4 4 4 4
+wqcqeqkqwwoweoqeoekqkkwcckeqowekocekkokowwekqcokqoocwckwewceqoqkwece
+4
+4 4 4 4
+ssryykolsykkoylsmosmkkkmylrslsmmksrlllmsmmos
+4
+4 4 4 4
+wlnzcdldwllonozconnncnncldodznwodnzwnlzlczlnzccndzoncnlcodolnwcllnonolcwoznlndoznncdnclcndzodnllzldwczlozdlwnlldwlnwzoonnwlwwzcdooolddwwllozdnwzncldoloonnldnlwznwozolnwwzld
+4
+4 4 4 4
+fiioyocycfqfqyqayoyfoowwcqowwfffaoaiffyq
+4
+4 4 4 4
+speecsuecyaayucemyppamucmyseaaumpaymacpaeyuuppmmcpmueeeeamssuccampesaaesmpyypmmmepcepemppysupasmspusuaeupapmpamyayeapcuspyscsmamccyeycyssmeeppcuaeaemseapcsceueayuapmpauyayapmasmuscsueuseuayemepmuymyesspespuspa
+4
+4 4 4 4
+gvggsvgcsfwfwiiwsbgfiiwfbsncwvscbwiiw
+4
+4 4 4 4
+peeopvvhhosnaoevphoanansvhoaahxnvaxxvxvxvsapeeaannhexsasxvhaxvnapavaevepopnxepphsonahaxpnohshanaenveaosxhhahsvnohsoeahevnsahxnhnvvoexppaxnnnhnxpvasvnxsovoxxsohoonsxsosxnsosxsvspn
+4
+4 4 4 4
+rlznnlrgjzgljjuknrbkbjkkznryzugnyrklljy
+4
+4 4 4 4
+adbcymmdemdbbgbeyjydjcdjbncnyacnjyneagbyacnmmdajajeybjyjebcbmdncmjcadyeacdagdbmaneydbb
+4
+4 4 4 4
+ncckslqlkgzknzgzsksiincllyniklcaynyyq
+4
+4 4 4 4
+xrrcxmbmgbzzxsrgyysegeemxexysmeeyrgxmryxsceczrpgczeryc
+4
+4 4 4 4
+jyityyxasvrisvyjvjjevonoaiaxejrixotyo
+4
+4 4 4 4
+spsbdaivagsvbycypaipvaabbgcdcblsogsvaooalpgyigbyvbgyigpdspalilaipydoodobpgacbyciiibsoicgocvlplgpgaccosdcyobsdayliccggdlblbpicgcvsdsgclbbiabyagpsgbclbgvpvdsilbpsgpdgpogadcgypalcl
+4
+4 4 4 4
+sscrartvvsoaxacmmtlvmtoxxbabaxvrcsumrrmsbvvm
+4
+4 4 4 4
+cjlpuzupzdgnlnmdmvvvzlrucvplnmmjrvjmzldndjedgrndupgpneuzvmmnmepmeuvleeeegvmcpguueelgzujlmgrzuunzjvpmlepdggppgmucmcngzvdrccvdzzpucnmpjgvgjnrmzvzj
+4
+4 4 4 4
+ppnplfxccjnucideoncuhejhlcjcejpfodptulpjhnn
+4
+4 4 4 4
+mxrulerlxuyylzzmfgzexfzgulxrmmxfuylbsebdugfzuobdosxemfumdzxrsgfusyemrumlsxuoodmgmrfxmmzrgbdfbmxmrusmblsgmuozbgbezebgyllblolodfedgxgrssgozmmxzumlxz
+4
+4 4 4 4
+ukdktzirtypirvcssusocptrzsuwicitkokuubvwptz
+4
+4 4 4 4
+vnplahjanragvdanzinaavgzndlgnpspaqqhhagpjqnnnzpljpwijvzrilpprlvswdwladiqssarrizqzdvhjnjarzvgrzwhnhzvzvnjn
+4
+4 4 4 4
+vwksgwtsukwofevsoeoodtkdmtoelegeeckhrsg
+4
+4 4 4 4
+dydwwzwydfypjdywqobuswqzyqqjlojyweli
+4
+4 4 4 4
+tyxpzcevmyhvzmtehponhchhorzwhemmyfhycxm
+4
+4 4 4 4
+qsvldgbswvljglfbwqlqltmfidjpjpciccmrliiqvjfrqp
+4
+4 4 4 4
+onjgifzbgnsipjfezghwhybovinfthjnits
+4
+4 4 4 4
+sauwntpporapnwamenpurw
+4
+4 4 4 4
+ecxaqshsycdgncbthkbkbnchcyyuashdawbjiq
+4
+4 4 4 4
+datotttvmdowihprwnihooeidvcuphduvawffsdieaklpwldvlhskahuuursorrehmlwmedhdhoioosdoaisvltsninmlrwfhkfrowuwwuswimmrucwfkpwwvcnctuohrmmpplrfwlod
+4
+4 4 4 4
+vkcjdcedhvjjoixleillqhpjsddiptcackycisk
+4
+4 4 4 4
+hjugsdcophgceophatjccojimdiwumlutfthicqsvfesiviuqtjxmfildhexsgpxomowlemgocptutpueogdgcwuppohixlwtwdavvajqeesqxm
+4
+4 4 4 4
+tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhpkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+qpkjfhkjfhkjfhkjfhkjfhqpkjfhkjfhkjfhkjfhkjfhpqpkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+4
+4 4 4 4
+kjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfhkjfh
+2
+1 3
+ddddddddddddddddddddddddddddddddddddddddddddddddddd
+2
+3 2
+kaakkkaaaakkkakaaakakkkakkkaaaaaaaaaaak
+2
+2 1
+xxjjxfjxfxfjffjxjfxxfjjfffxffjf
+3
+2 1 3
+vcvpvjvppccpvvcpcvvvpjjvccjvvpjpjccjpccvpjjcjjppvjvjcvjjccjvjjcjccjpvjjcjcvjpppcpjjjvjjpjcvjcvpvvjcpvpjpjjcc
+4
+2 3 2 3
+lddlqdelqlaaaaaladqlldldqddlqlqdllalqdadle
+3
+1 3 4
+czdypypdypmdypczppmpcpzpzczdccmppmdmymddydyypmyzddzppppypdmmzmpcyydydyzcdppdzzccdzpdymyzddy
+3
+1 2 1
+kekkdnkknkrnkpmmdprdepnnnkrdmnenpnmenrdknenepkrnrmpppnmrprkdepeeekpddp
+2
+3 4
+fbdbdfdfbkddkoggdobdtodfgdbbobftkgkgvvvffkfdfvgvgobktgofbvbtdfgftvfbbgbogobvtotfoobokdkttogkbbfvgdfffbofdk
+4
+4 3 2 3
+oxhoxihoqxliyhxdyhlivdiqdixodlhqyvoyoxdoqlovqhdyodvxd
+3
+1 1 3
+avbydfofgtygatfdvtfygagagyfbydtbfagtalvydaygfbglgav
+4
+4 4 4 4
+phqhumayllfdx
+4
+4 4 4 4
+phekvwpvkvwpkvwpekvwpvkvwpekvwp
+4
+4 4 4 4
+ppnlchiychiychiyfhnlchiychiy
+4
+4 4 4 4
+pglrhsyamlglrhglrhsyamlglrhamlglrh
+4
+4 4 4 4
+pzqtkazqtkzqtkzqtkzmzqtkzqtkzmzqtk
+4
+4 4 4 4
+pqynjrdomxnjrdomxdomxdomx
+4
+4 4 4 4
+pmvrnmvrnmvrnegmvrnmvrnmvrnejlmvrnmvrnmvrne
+4
+4 4 4 4
+pshmipimzndwshmi
+4
+4 4 4 4
+pbwrxbwrxujbwrxbwrxujbwrxbwrxbwrxbwrx
+4
+4 4 4 4
+hszrmsqzrmspszrmsqzrmsavszrmsqzrms
+4
+4 4 4 4
+gjircsjircjircgjircsjircjircagjircsjircjircgjircsjircjircgjircsjirc
+4
+4 4 4 4
+yjdmryjdmyjdmoyjdmeayjdmyjdmoyjdmyjdmyjdmoyjdm
+4
+4 4 4 4
+rsbzrsbzrsbzgarsbzmrsbznrsbz
+4
+4 4 4 4
+tciaytciatciatciaytciatciatciatciatciaytciatciatciaytciatciatciatciastcia
+4
+4 4 4 4
+ogrbbgrbbgrbbgorbbgogrbbgrbbgrbbgorbbggrbbgrbbgrbbgt
+4
+4 4 4 4
+zjhaxqzkhaxqhaxqzkhaxqzjhaxqzkhaxqhaxqzkhaxqhaxqy
+4
+4 4 4 4
+eumxdjheumxdjheumxdjheumxdjheumxdjhts
+4
+4 4 4 4
+chfkwxhfkwfchfkwxhfkwchfkwxhfkwchfkwxhfkwchfkwxhfkwfchfkwxhfkwchfkwxhfkwq
+4
+4 4 4 4
+mnffbnffbkrnffbnffbkrnffbnffbkrnffbnffbkrnffbo
+4
+4 4 4 4
+waaslokaaslaaslokaaslaaslokaaslaaslokaaslaaslz
+4
+4 4 4 4
+gjpxrchyspxrchyschysvc
+4
+4 4 4 4
+pjgvsfpjgvpjgvxpjgvsfpjgvpjgvpjgvsfpjgvpjgvxpjgvsfpjgvl
+4
+4 4 4 4
+vgaqvgaqrnuvgaqdvgaqrnuvgaql
+4
+4 4 4 4
+vlqmvlqmvlqmeqvlqmvlqmvlqmvlqmh
+4
+4 4 4 4
+ggqkwkggqkqcggqkuggqkc
+4
+4 4 4 4
+kgtgkgtgkgtgkgtgqkgtgkgtgkgtgkgtgckgtgkgtgkgtgkgtghkgtg
+4
+4 4 4 4
+zituwsrxazituwsrjvzituwsr
+4
+4 4 4 4
+frjvmtfrjvfrjvfrjvfrjvmtfrjvpfrjvfrjvfrjvmtfrjvpfrjvfrjvfrjvmtfrjvp
+4
+4 4 4 4
+ozajsgrjsgrozajsgrozajsgrozajsgrozajsgrjsgrozajsgrozajsgrozajsgr
+4
+4 4 4 4
+fgaayrfgaafgaablfgaafgaafgaablfgaa
+4
+4 4 4 4
+lvuficvlvuficvlvuficvficvnficvw
+4
+4 4 4 4
+knraunraunrauknraunraunrauknraunraunrauknraunraunrauknraunraunraupnrau
+4
+4 4 4 4
+qthxdokxdokqthxdoksymqthxdoksym
+4
+4 4 4 4
+akpxznakpxakpxakpxcakpxznakpxakpxh
+4
+4 4 4 4
+mxesuprrmxesmxesmxesprrmxesprrmxes
+4
+4 4 4 4
+tdrjjtdrjentdrjltdrjcjtdrjentdrjltdrj
+4
+4 4 4 4
+ktiqebbktiqktiqktiqebbktiqebbktiqktiqktiqebbktiqebbktiqktiqktiqebbktiq
+4
+4 4 4 4
+npwtnpwtnpwtdhnpwtynpwtdhnpwtnpwtdhnpwtnpwtnpwtdhnpwtynpwtdhnpwt
+4
+4 4 4 4
+zxitkyvfpzxitvfpzxitzxitvfpzxit
+4
+4 4 4 4
+deiddeidtrdeidjbdeiddeidjbdeiddeid
+4
+4 4 4 4
+vmcvcggvmcvcggvmcvvmcvvmcvvmcvq
+4
+4 4 4 4
+wmcwwmcwwmcwamwmcwgwmcwewmcwamwmcw
+4
+4 4 4 4
+pmmvhtmvhtmvhtmvhtmvhtqkf
+4
+4 4 4 4
+plbtalbtablbtalbtalbtalbtallbta
+4
+4 4 4 4
+pdwvrvcdwvrodwvrydwvrr
+4
+4 4 4 4
+priryqauiryuiryodnuiry
+4
+4 4 4 4
+phhpxhcpxchcpxhcpxuthcpxi
+4
+4 4 4 4
+iofhiofhiofhiofhoqiofhuiofhiofhiofhiofhi
+4
+4 4 4 4
+ynftzynftuuynftzynftuuynftzynftuuynftzfnftuufk
+4
+4 4 4 4
+korqyxvikorqakoaqyxvikorqaxvikorqkorqyxvikorqa
+4
+4 4 4 4
+vyxkhihbkhihxkhihbkhihxkhihbkhihoxbhihbkhih
+4
+4 4 4 4
+mtqqmllmtqqmllmtqqltqqmllmtqqmllmtqqmtqqmllmtqqmllmtqqmtqq
+4
+4 4 4 4
+drcydrcyzjjdrcyzjjdrcydrcyrdrcydrcyzjydrcyzjjdrcy
+4
+4 4 4 4
+nhdmphddhdmphdkmphdmphdnhdmphdnhdmphd
+4
+4 4 4 4
+njciywweiywwnjciywwwjciywwtiywwnjciywwnjciywwt
+4
+4 4 4 4
+nabmeebnabmeebbeebnabmeebulmeeb
+4
+4 4 4 4
+kdjcyywkdjcyywokdjcyywydjcyywkdjcyywcyyw
+4
+4 4 4 4
+nvdkvvdkvvdkvnvdkvvdkvvdkvgnvdkvvdkvvdkvbvdkvnvdkvvdkvvdkv
+4
+4 4 4 4
+hqluugauugauugahqluugauugauugahqluuga
+4
+4 4 4 4
+yhhrfquyyhorquyyhortquyyhorquyyhor
+4
+4 4 4 4
+oiujouzoiujiopzoiujopzoiujopzoiujiopzoiujopzoiujoiuj
+4
+4 4 4 4
+twwotwwovtwxtwwotwxttwotwwotwwo
+4
+4 4 4 4
+fmqpvmqpkfrnvmqpvmqpfrnvmqpfrnvmqp
+4
+4 4 4 4
+tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+4
+4 4 4 4
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+4
+4 4 4 4
+yqqqyqqqyyyqyqqyqyyqqqyyqyqqqqyyqyqyyqqqqqqyyqyyqyyqyqqyqqyyqyyyyqyqyyyqyyyyqqqqqqyqyqqqyyyqqyyqqqyqyyqqqqyqqyyqqqyqqyqqqyqyqyyqqyqqyyyqyyyqyqqqyqyyyyqqqqqqyyyyyqqqqyqyqyqyqqyyyqqyyqyqyqyyyqqqyqyqyqyqqqyyqqqyqyyyyyqqyqyqyyyyyyyqqyyqqqqqyyqyyyyyyqyqyqqyyyyyyqqqyyqqyyyqyqqyqyqqyqyyyyqqyyqqqyqyqyyqqqyqqyyyqqyqyyqyyqyqqqyyqyqyyyyqqyyqyyyyyqyqyyyyyqqyqy
+4
+4 4 4 4
+vkvwkvvkwvvkkwwwwwwvwkwwwwvvkwkvkvvkwkkvvvwwwwwvkvvvvkwvvkkwwwwvwwkvwvkvkkvwwvwvkvkkvwkkvvwwkkvwkkwwvwwvwwvkwwkvkvkkkvwkvwkvvkwkkwvvwvvkvkkvkkvvwvkwvvkwwvkvwkkkkwvkwwwvwkvwkvkvkvwvwwvkwvvwkvvkwwvwwvwkwwvvkkwkvvkvkvvwvvvvvvwwwkwkkvkkkkkwkwvwkvkvkvwkkvkwkvkkwvwkwvwwkwvvvkvwvvvkvkvwvvkvkwvwwkvkvkwvkwvkvkkvvkvkwkvkkwvkkvwwwkkkwwv
+4
+4 4 4 4
+kfggfggwwgfwwgwffgfwkgkwfwgkkgkwwwfgffwkgggggwkgfffkffwggkwkgkwkkgfgkkgkwkgkwgwfkfkkwkfwgwwkkwkwgwgwwkwgfffkkfkkkwgfkwgkgkwfkkkwwgfwggggfgwgffwgwgfwgwkgfkkkfggfgkwwfwwgfwfwffgwgfgkggwfwfwwgfkfgfwfwfggwwfgwgkwgkkfgkwwfwfwfgfkwffwkwkgkfkkgwfgkwgkkkfkkgwwgkgkkggwkgfkfffkf
+4
+4 4 4 4
+orqkkakaokqrrraakrrkkokrarrqoookoqqqkooorkqokqraqrokkaqkarqroqrkaqroqrkkokoarqrorqrraorqkqaokkroaarokqkqqqqorkokokroaqoaqaarkkaooaqkoarrqqarkooqroaraoqkkraraakkqkoroqarkakqqrkkokqqkrakokaaqaooqaqaqoakarqoroaaoaorkqrorrkakkkraorrrqrqkrqoooaoooraaorqakaokaaqqoaarkqrkokkaaoroaoaaaaroqkraqqkqkorkkkoora
+4
+4 4 4 4
+qfavzzcxdsewqdqfcavzqfdqxadfqdfwgqzvqccws
+4
+4 4 4 4
+qvcwzvxqdsaeewaqesqadzvcqevwczdaqeqwzadqvaccvzqxdsqae
+4
+4 4 3 4
+abcdabcdefgefgabcdabcdefgefgabcdabcdefgefgabcdabcdefgefg
